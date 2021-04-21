@@ -35,4 +35,8 @@ public class D implements H, E {
     public Object rr() {
         return null;
     }
+
+    public long dd() {
+        return 99999;
+    }
 }

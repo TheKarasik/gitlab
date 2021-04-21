@@ -27,4 +27,8 @@ public class G implements H {
     public int cc() {
         return 42;
     }
+
+    public Object pp() {
+        return this;
+    }
 }
