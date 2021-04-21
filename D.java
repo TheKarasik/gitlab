@@ -39,4 +39,8 @@ public class D implements H, E {
     public long dd() {
         return 99999;
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }

@@ -31,4 +31,8 @@ public class G implements H {
     public Object pp() {
         return this;
     }
+
+    public void aa() {
+        return;
+    }
 }
