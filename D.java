@@ -31,4 +31,8 @@ public class D implements H, E {
     public String kk() {
         return "Yes";
     }
+
+    public Object rr() {
+        return null;
+    }
 }

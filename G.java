@@ -23,4 +23,8 @@ public class G implements H {
     public long dd() {
         return 99999;
     }
+
+    public int cc() {
+        return 42;
+    }
 }
