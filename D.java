@@ -27,8 +27,4 @@ public class D implements H, E {
     public void ab() {
         System.out.println();
     }
-
-    public String kk() {
-        return "Yes";
-    }
 }
