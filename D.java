@@ -27,6 +27,7 @@ public class D extends null implements H, E {
     public void ab() {
         System.out.println();
     }
+<<<<<<< HEAD
 
     public String kk() {
         return "Yes";
@@ -59,4 +60,6 @@ public class D extends null implements H, E {
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
+=======
+>>>>>>> a92c3dc... commit 2
 }
