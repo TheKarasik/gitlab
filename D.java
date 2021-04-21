@@ -47,4 +47,16 @@ public class D extends null implements H, E {
     public int af() {
         return -1;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
 }

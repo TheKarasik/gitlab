@@ -43,4 +43,20 @@ public class G extends null implements H {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public long ac() {
+        return 111;
+    }
+
+    public void ab() {
+        System.out.println();
+    }
+
+    public double ad() {
+        return 11;
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
 }
