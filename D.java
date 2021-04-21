@@ -1,4 +1,4 @@
-public class D implements H, E {
+public class D extends null implements H, E {
 
     private double c = 100.500;
 
@@ -38,5 +38,13 @@ public class D implements H, E {
 
     public long dd() {
         return 99999;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
+
+    public int af() {
+        return -1;
     }
 }

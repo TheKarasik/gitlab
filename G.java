@@ -1,4 +1,4 @@
-public class G implements H {
+public class G extends null implements H {
 
     private byte d = 1;
 
@@ -30,5 +30,17 @@ public class G implements H {
 
     public Object pp() {
         return this;
+    }
+
+    public void aa() {
+        return;
+    }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
 }
