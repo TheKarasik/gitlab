@@ -19,8 +19,4 @@ public class G implements H {
     public double ee() {
         return 0.000001;
     }
-
-    public long dd() {
-        return 99999;
-    }
 }
